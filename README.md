@@ -1,13 +1,6 @@
  <h1 align="center">Hi 👋, I'm Hossam Ahmed</h1>
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 
- 
-- 👨‍💻 I’m a **Software engineer**
-
-- 👨‍💻 I am undergraduate in **fci at scu**
-
-- 👨‍💻 Always open to learn **new things**
-
 - 📫 How to reach me **hossaaamahmed6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
